@@ -12,7 +12,7 @@
 
 ___
 
-blah blah blah
+again
 
 Your mission in this bug finding expedition is to find bugs in the following two applications which are setup to run inside a local Kind Kubernetes cluster:
 
