@@ -12,6 +12,8 @@
 
 ___
 
+blah blah blah
+
 Your mission in this bug finding expedition is to find bugs in the following two applications which are setup to run inside a local Kind Kubernetes cluster:
 
 - BugZapper Asteroids Style Game (Node.js application)
